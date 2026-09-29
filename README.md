@@ -14,4 +14,4 @@ The project was built using the following tools and technologies:
 📊 Power BI Desktop: Main data visualization platform used to build the interactive dashboard.
 🧠 DAX (Data Analysis Expressions): Used for calculated measures such as Total Sales, Total Profit and Total Orders.
 
-https://github.com/samridhdeshwar01-hue/Ecommerce-Sales-Analysis/blob/main/Screenshot%20of%20Dashboard.png
+![Dasboard Preview](https://github.com/samridhdeshwar01-hue/Ecommerce-Sales-Analysis/blob/main/Screenshot%20of%20Dashboard.png).
